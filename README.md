@@ -1,8 +1,7 @@
 🙏 Namaste, I am Prabhav!
 
 - 👀 I’m interested in technology.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Computer Programming.
 - 📫 Reach me via contactprabhav@gmail.com 
 
 <!---
