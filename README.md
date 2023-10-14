@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhav Pokharel</h1>
+
 - 🔭 I’m currently working on **C-Bank Pro**
 
 - 🌱 I’m currently learning **Programming**
@@ -11,7 +12,7 @@
 <a href="https://linkedin.com/in/prabhavpokharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhavpokharel" height="30" width="40" /></a>
 <a href="https://fb.com/prabhavpokharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prabhavpokharel" height="30" width="40" /></a>
 <a href="https://instagram.com/prabhavpokharel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prabhavpokharel" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prabhavpokharelyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prabhavpokharelyt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@prabhavpokharelyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prabhavpokharelyt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
